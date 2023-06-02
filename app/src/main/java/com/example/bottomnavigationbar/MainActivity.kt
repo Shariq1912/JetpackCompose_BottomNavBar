@@ -126,6 +126,7 @@ fun BottomNavigationBar(
                         "My Shoes" -> Icon(
                             imageVector = Icons.Filled.Person,
                             contentDescription = null
+
                         )
                         "Reports" -> Icon(
                             imageVector = Icons.Filled.Send,
